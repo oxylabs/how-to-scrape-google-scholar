@@ -2,9 +2,9 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Take a look at the process of gtting titles, authors, and citations from [Google Scholar](https://scholar.google.com/) using Oxylabs [SERP Scraper API](https://oxylabs.io/products/scraper-api/serp) (**1-week free trial**) and Python.
+Take a look at the process of getting titles, authors, and citations from [Google Scholar](https://scholar.google.com/) using Oxylabs [SERP Scraper API](https://oxylabs.io/products/scraper-api/serp) (**1-week free trial**) and Python.
 
-For detailed walkthrough with explanations and visuals, check our [blog post](https://oxylabs.io/blog/how-to-scrape-google-scholar).
+For a detailed walkthrough with explanations and visuals, check our [blog post](https://oxylabs.io/blog/how-to-scrape-google-scholar).
 
 ## The complete code
 
