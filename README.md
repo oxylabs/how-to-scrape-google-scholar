@@ -5,7 +5,7 @@
 Take a look at the process of getting titles, authors, and citations from [Google Scholar](https://scholar.google.com/) using Oxylabs [SERP Scraper API](https://oxylabs.io/products/scraper-api/serp) (a part of Web Scraper API) and Python. You can get a **1-week free trial** by registering on the [dashboard](https://dashboard.oxylabs.io/).
 
 For a detailed walkthrough with explanations and visuals, check our [blog post](https://oxylabs.io/blog/how-to-scrape-google-scholar).
-
+Also, do not hesitate to check this [Best SERP APIs](https://medium.com/@oxylabs.io/the-10-best-serp-apis-in-2024-22bf7f91f8f0) list 
 ## The complete code
 
 ```python
