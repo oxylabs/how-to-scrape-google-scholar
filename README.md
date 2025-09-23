@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/how-to-scrape-google-scholar/refs/heads/main/Google-Scraper-API-1090x275.png)](https://oxylabs.io/products/scraper-api/serp/google?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=how-to-scrape-google-scholar-github&transaction_id=102c8d36f7f0d0e5797b8f26152160)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 Take a look at the process of getting titles, authors, and citations from [Google Scholar](https://scholar.google.com/) using Oxylabs [SERP Scraper API](https://oxylabs.io/products/scraper-api/serp) (a part of Web Scraper API) and Python. You can get a **1-week free trial** by registering on the [dashboard](https://dashboard.oxylabs.io/).
 
