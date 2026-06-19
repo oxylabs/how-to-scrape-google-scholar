@@ -92,7 +92,7 @@ print(data)
 
 ## Final word
 
-Check our [documentation](https://developers.oxylabs.io/scraper-apis/web-scraper-api/google) for more API parameters and variables found in this tutorial.
+Check our [documentation](https://developers.oxylabs.io/api-targets/search-engines/google/url) for more API parameters and variables found in this tutorial.
 
 If you have any questions, feel free to contact us at support@oxylabs.io.
 
